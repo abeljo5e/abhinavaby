@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-krishnan-775682251)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](mylink)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karthik_kk708)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/karthik_kk708)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/karthik_kk2004)
@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 <!---Github Status--->
 ## 📊 GitHub Stats  
-<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=highcontrast"> <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthik2004&theme=highcontrast">
+<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavaby&show_icons=true&theme=highcontrast"> <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavaby&theme=highcontrast">
   
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8&theme=radical">
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavaby&langs_count=8&theme=radical">
 
 
 <!--GitHub Trophies-->
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamkarthik2004&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhinavaby&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
