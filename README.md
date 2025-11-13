@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](mylink)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karthik_kk708)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhinav_aby_01?igsh=MTl2YTdjcmR0NzMxdw%3D%3D&utm_source=qr)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/karthik_kk708)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/karthik_kk2004)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/karthikkrishna30)
